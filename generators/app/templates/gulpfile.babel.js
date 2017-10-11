@@ -8,7 +8,6 @@ import path              from 'path';
 import fs                from 'fs';
 import vfs               from 'vinyl-fs';
 import jsforce           from 'jsforce'
-import { inject, cap }   from './gulp/component';
 import log               from './gulp/log';
 import DeploymentService from './gulp/deploy';
 import UtilService       from './gulp/util';
