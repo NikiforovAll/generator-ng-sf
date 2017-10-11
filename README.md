@@ -1,5 +1,5 @@
 # generator-ng-sf [![NPM version][npm-image]][npm-url]
-> yeoman generator for angular-sf-seed
+> yeoman generator for angular-sf-seed based on [angular-sf-seed](https://github.com/vladborsh/angular-sf-seed)
 
 ## Installation
 
@@ -21,4 +21,4 @@ ISC © [NikiforovAll]()
 
 
 [npm-image]: https://badge.fury.io/js/generator-ng-sf.svg
-[npm-url]: https://npmjs.org/package/generator-ng-sf
+[npm-url]: https://www.npmjs.com/package/generator-ng-sf
