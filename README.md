@@ -15,6 +15,32 @@ Then generate your new project:
 ```bash
 yo ng-sf
 ```
+
+To generate component: 
+```bash
+yo ng-sf:component <component-path>
+```
+The following parts will be generated: 
+```
+<component-path>
+|_<component-name>
+    |_component.html
+    |_component.ctrl.js
+    |_component.js
+```
+To generate feature: 
+```bash
+yo ng-sf:feature <feature-path>
+```
+The following parts will be generated: 
+```
+<feature-path>
+|_<feature-name>
+    |_routes.js
+    |_controller.js
+    |_index.js
+    |_view.html
+```
 ## License
 
 ISC © [NikiforovAll]()
